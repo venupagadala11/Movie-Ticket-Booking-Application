@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+    background-color: var(--balck);
+    color:white;
+    margin:0px;
+    padding: 0px;
+}
+
+:root
+{
+    --white:white;
+    --red:red;
+    --balck:black;
+    --gray:#868686;
+    --backGroundGray:#5b5858;
+    --movieDescBackGround:#272727;
+    --movieTitleColor:#DEDEDE;
+    --green:#3CB56D;
+    --blue:blue;
+    --borderColor:#868686;
+}
